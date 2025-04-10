@@ -7,4 +7,4 @@
 |5| [SEED Resources](https://www.handsonsecurity.net/resources.html) | Cyber Security Lab Practice|
 |6| [CyberLabs IIIT Kottayam](https://cyberlabs.iiitkottayam.ac.in/) | Research Group | 
 |7| [IIT-Madras Cryptography and Cyber Security Research Group](https://ccd.cse.iitm.ac.in/index.html)| Research Group |
-|8| [CyStar: IIIT Madras] (https://cystar.iitm.ac.in/) | Centre of Excellence|
+|8| [CyStar: IIIT Madras](https://cystar.iitm.ac.in/) | Centre of Excellence|
