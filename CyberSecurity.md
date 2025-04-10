@@ -1,3 +1,3 @@
-| **S.No.** | **Resource Link** |
+| **S.No.** | **Resource Link** | **Description** |
 |-----------|-------------------|
-|1          | [Hack The Box](https://www.hackthebox.com/)| 
+|1          | [Hack The Box](https://www.hackthebox.com/)| Cyber Security Training Platform
