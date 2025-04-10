@@ -3,3 +3,4 @@
 |1          | [Hack The Box](https://www.hackthebox.com/)| Cyber Security Training Platform |
 |2          | [TryHackMe](https://tryhackme.com/) | Cyber Security Training Platform |
 |3 | [NETLAB+ Supported Cybersecurity Content - Labs](https://www.netdevgroup.com/content/cybersecurity/labs) | Cyber Security Lab |
+|4| [SEED Labs](https://seedsecuritylabs.org/) | Hands-on Labs for Cyber Security Education |
